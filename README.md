@@ -40,7 +40,7 @@ Memes are an important part of internet culture and online communication. This p
 | Bootstrap 5 | UI styling and layout            |
 | Canvas API  | Meme image rendering             |
 
----
+
 
 
 # ⚙️ Software Requirements
@@ -152,5 +152,5 @@ Future improvements that can be added:
 
 
 
-
+⭐ Conclusion
 The Meme Generator project successfully demonstrates the use of modern web technologies to create an engaging and interactive web application. The project combines creativity with programming concepts and provides users with a simple platform to create and customize memes efficiently.
