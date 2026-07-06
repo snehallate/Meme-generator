@@ -1,5 +1,6 @@
 # Meme-generator
-https://github.com/snehallate/Meme-generator
+Repository Link: https://github.com/snehallate/Meme-generator
+
 A responsive and interactive **Meme Generator Web Application** developed using **HTML, CSS, AngularJS, and JavaScript**.
 This project allows users to create custom memes by adding personalized top and bottom text to images in real-time.
 
